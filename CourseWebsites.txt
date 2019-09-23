@@ -3,4 +3,4 @@ tranya.cs.qc.cuny.edu/cs343
 CS 313
 venus.cs.qc.cuny.edu/~yang
 Math 231
-sites.google.com/site/ipmathcourses
+sites.google.com/site/jpmathcourses
